@@ -1,0 +1,15 @@
+UNA 	65152
+Autos & Vehicles	156772
+Comedy	855120
+Education	132340
+Entertainment	1854796
+Film & Animation	531396
+Howto & Style	280968
+Music	1771320
+News & Politics	698348
+Nonprofits & Activism	87548
+People & Blogs	812364
+Pets & Animals	193369
+Science & Technology	162880
+Sports	515108
+Travel & Events	230068
