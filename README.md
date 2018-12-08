@@ -215,3 +215,7 @@ ExecutionTime for VideoRating:
 Our 2GB dataset:
 ----------------------------------
 https://drive.google.com/open?id=1u4weAUOApcZIx7T4tBMtcqJhfmYQsK6e
+
+PowerPoint Slides:
+----------------------------------
+https://docs.google.com/presentation/d/1Sjz8gNBXqSMkHhwLQkDkv9DlcbtToIIohSB3kdgl4sU/edit?usp=sharing
